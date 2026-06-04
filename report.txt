@@ -1,0 +1,27 @@
+=== Phishing Email Detection Report ===
+
+Project Objective:
+Develop a machine learning model capable of classifying emails as Phishing or Safe.
+
+Algorithm Used:
+
+* TF-IDF Vectorization
+* Multinomial Naive Bayes Classifier
+
+Dataset:
+A sample dataset containing phishing and legitimate email examples was used for training and testing.
+
+Features Extracted:
+
+* Email text content
+* Suspicious keywords
+* URL-related patterns
+
+Results:
+
+* Email classification performed successfully.
+* Accuracy Score displayed after model evaluation.
+* Confusion Matrix generated for performance analysis.
+
+Conclusion:
+The model successfully classifies emails into Phishing and Safe categories using textual features and machine learning techniques.
