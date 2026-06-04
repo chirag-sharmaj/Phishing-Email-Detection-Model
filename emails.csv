@@ -1,0 +1,11 @@
+text,label
+"Congratulations! You won $1000. Click here now.",phishing
+"Verify your bank account immediately.",phishing
+"Update your password using this link.",phishing
+"Claim your reward now.",phishing
+"Urgent! Your account will be suspended.",phishing
+"Meeting scheduled for tomorrow at 10 AM.",safe
+"Your project submission has been approved.",safe
+"Class timetable has been updated.",safe
+"Assignment deadline extended by one week.",safe
+"Team meeting at 4 PM today.",safe
